@@ -1,0 +1,12 @@
+com\fire\poc\service\PersonServiceImpl.class
+com\fire\poc\config\ApplicationSecurityConfig.class
+com\fire\poc\exception\PersonNotFoundException.class
+com\fire\poc\exception\CustomExceptionHandler.class
+com\fire\poc\controller\PersonRest.class
+com\fire\poc\FirePersonApp.class
+com\fire\poc\service\IPersonService.class
+com\fire\poc\repo\PersonRepository.class
+com\fire\poc\entity\Person.class
+com\fire\poc\entity\PersonHolder.class
+com\fire\poc\exception\ErrorResponse.class
+com\fire\poc\config\FireAuthConfig.class
